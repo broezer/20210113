@@ -1,0 +1,1 @@
+Don't know what I was thinking. Bu hey I managed to 3-color gradient a circle. 
